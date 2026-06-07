@@ -28,6 +28,7 @@
       }
     ],
     "min_format": 48,
-    "supported_formats": { "min_inclusive": 48, "max_inclusive": 101 }
+    "supported_formats": { "min_inclusive": 48, "max_inclusive": 101 },
+    "pack_format": 48
   }
 }
